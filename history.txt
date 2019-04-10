@@ -1,0 +1,185 @@
+test
+hostname
+whoami
+ls
+exit
+exit
+ls
+whoami
+ls
+whoami
+whoami
+exit
+whoami
+whoami
+ls
+ls
+ls
+test
+sudo
+sudo apt-get install vim
+exit
+ls
+whoami
+sudo apt-get install vim
+exit
+ls
+who
+whoami
+whoami
+ls
+vivaldi-snapshot
+exit 0
+memoryinfo
+systeminfo
+ls
+exit
+exit
+manual
+exit
+help
+cd i
+chdir
+exit
+hello
+hello
+systeminfo -s
+exit
+memoryinfo
+mem
+m
+memory
+info
+memoryinfo
+exit
+memoryinfo
+manual
+exit
+memoryinfo
+memoryinfo -s
+memoryinfo -s
+exit
+help
+manual
+memoryinfo -s
+memoryinfo
+memoryinfo -s
+memoryinfo -k
+memoryinfo
+memoryinfo
+memoryinfo -s
+free -m
+exit
+memoryinfo
+memoryinfo -s
+memoryinfo -s
+exit
+memoryinfo
+memoryinfo -s
+exit
+memoryinfo -u
+exit
+memoryinfo
+memoryinfo
+memoryinfo -t
+memoryinfo -u
+memoryinfo -s
+exit
+memoryinfo
+memoryinfo -u
+exit
+memoryinfo -t
+memoryinfo -u
+memoryinfo -s
+exit
+memoryinfo -s
+exit
+memoryinfo -s
+exit
+memoryinfo -s
+exit
+memoryinfo -t
+memoryinfo -s
+memoryinfo -u
+memoryinfo
+exit
+cd
+cd home
+exit
+systeminfo
+systeminfo
+systeminfo
+exit
+systeminfo
+exit
+systeminfo
+memoryinfo -s
+memoryinfo -9
+exit
+memoryinfo -s
+memoryinfo -8
+memoryinfo -9
+memoryinfo -h
+memoryinfo -o
+hostname
+lsb_release -a
+exit
+systeminfo
+systeminfo -o
+systeminfo -k
+systeminfo -h
+exit
+systeminfo -o
+exit
+systeminfo -o
+systeminfo -k
+systeminfo -h
+systeminfo -h
+systeminfo -i
+systeminfo -k
+systeminfo -o
+exit
+systeminfo 
+systeminfo -o
+systeminfo -90
+systeminfo
+systeminfo -h
+exit
+systeminfo --h
+exit
+systeminfo
+systeminfo --help
+systeminfo -k
+systeminfo -h
+exit
+systeminfo
+exit
+systeminfo
+exit
+exit
+exit 3
+exit 4
+ls .zsh_history 
+cd polybar
+cd ..
+hostname
+systeminfo -h
+memoryinfo -u
+exit 4
+exit
+exit
+systeminfo -k
+ssyteminfo -h
+systeminfo --help
+systeminfo -h
+systeminfo 
+whoami
+systeminfo -k
+hostname
+memoryinfo -u
+whoami
+systeminfo --help
+systeminfo -k
+systeminfo -h
+systeminfo -o
+whoami
